@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AUXSISTEMAS\\Desktop\\studentAPP\\studentApi\\studentApi.csproj": {}
+    "C:\\Users\\mario\\Documents\\noob\\c#\\studentAPP\\studentAPP\\studentApi\\studentApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AUXSISTEMAS\\Desktop\\studentAPP\\studentApi\\studentApi.csproj": {
+    "C:\\Users\\mario\\Documents\\noob\\c#\\studentAPP\\studentAPP\\studentApi\\studentApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AUXSISTEMAS\\Desktop\\studentAPP\\studentApi\\studentApi.csproj",
+        "projectUniqueName": "C:\\Users\\mario\\Documents\\noob\\c#\\studentAPP\\studentAPP\\studentApi\\studentApi.csproj",
         "projectName": "studentApi",
-        "projectPath": "C:\\Users\\AUXSISTEMAS\\Desktop\\studentAPP\\studentApi\\studentApi.csproj",
-        "packagesPath": "C:\\Users\\AUXSISTEMAS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AUXSISTEMAS\\Desktop\\studentAPP\\studentApi\\obj\\",
+        "projectPath": "C:\\Users\\mario\\Documents\\noob\\c#\\studentAPP\\studentAPP\\studentApi\\studentApi.csproj",
+        "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mario\\Documents\\noob\\c#\\studentAPP\\studentAPP\\studentApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\AUXSISTEMAS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -38,6 +38,24 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
@@ -54,6 +72,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.23, 6.0.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.23, 6.0.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.23, 6.0.23]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.23, 6.0.23]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -62,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.415\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
