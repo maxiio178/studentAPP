@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2pRjfbUHB9Fk86iD4ax3G3A4/QqhEJkp84YBXiuNJqvflauNnzMff9i8aiBuTpjN1ztvU8lDMex3SwjGpUS5GA==",
+  "dgSpecHash": "7ChNmkYCukAdbFJtAt+AsHHbkJJjaFa7DtFRG++Og/DLBT0OjqvlyK4ovsHc4tRqzMhSSIVILUz++spG2+W+ug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mario\\Documents\\noob\\c#\\studentAPP\\studentAPP\\studentApi\\studentApi.csproj",
+  "projectFilePath": "c:\\Users\\mario\\Documents\\noob\\c#\\studentAPP\\studentAPP\\studentApi\\studentApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mario\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\mario\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
@@ -71,10 +71,10 @@
     "C:\\Users\\mario\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\mario\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\mario\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
-    "C:\\Users\\mario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
-    "C:\\Users\\mario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512",
     "C:\\Users\\mario\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
-    "C:\\Users\\mario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512"
+    "C:\\Users\\mario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\mario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\mario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
   ],
   "logs": []
 }
